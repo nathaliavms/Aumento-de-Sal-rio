@@ -29,6 +29,6 @@ abaixo.
 # Exemplo de Saída
 Novo salario: 460.00
 
-# Reajuste ganho: 60.00
+Reajuste ganho: 60.00
 
 Em percentual: 15 %
